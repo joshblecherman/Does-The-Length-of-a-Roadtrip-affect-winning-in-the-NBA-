@@ -6,7 +6,7 @@ cumulative_distance,n_game_road_trip,win?
 0,0,0
 0,0,1
 0,0,0
-3102,1,0
+1023,1,0
 0,0,1
 0,0,1
 0,0,0
@@ -57,8 +57,8 @@ cumulative_distance,n_game_road_trip,win?
 779,1,1
 0,0,0
 0,0,1
-3102,1,1
-5313,2,1
+1023,1,1
+1837,2,1
 0,0,1
 0,0,1
 0,0,1
