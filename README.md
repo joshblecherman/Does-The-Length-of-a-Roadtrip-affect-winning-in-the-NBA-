@@ -2,3 +2,6 @@ The main goal of this project is to analyze two variables and to see how they co
 
 The secondary goal of this project was to observe any idiosyncrasies in the data. For example, did you know the longest roadtrip in the 2010s belong to the Clippers at 11 games, and the 76ers at over 13,000 km travelled? 
  
+The secondary goal of this project was to observe any idiosyncrasies in the data. For example, did you know the longest roadtrip since the 2015-16 season belongs to the nets, at 9 games? 
+
+Thanks for reading! 
