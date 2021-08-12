@@ -39,3 +39,5 @@ TeamTravelDistVsWinning - Contains a csv for each team in a given year. Each csv
 CompleteData - Contains a single csv with all of the data from the files in the TeamTravelDistVsWinning folder. All games from the perspective of the home team are removed, and the data is sorted by distance and then by length of road trip. 
 
 analysis and visualizations.ipynb - I analyze the data, explore possible trends and idiosyncracies, then determine whether the possible trends are statistically significant, and finally provide a few visualizations of the data. 
+
+variables.ipynb - contains global variables used by both collecting and sorting data.ipynb and analysis and visualizations.ipynb.
